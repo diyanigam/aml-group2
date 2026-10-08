@@ -1,0 +1,23 @@
+{
+  "kind": "PDEBench_1D_Burgers_derived_core_subset",
+  "source_dataset": "1D_Burgers_Sols_Nu0.01.hdf5",
+  "source_shape": [
+    10000,
+    201,
+    1024
+  ],
+  "source_dtype": "float32",
+  "viscosity": 0.01,
+  "domain": "x in [0,1), periodic; stored t in [0,2]",
+  "transition": "adjacent stored times, source time indices [0,40,80,120,160] to the next index",
+  "train_grid": 128,
+  "evaluation_grids": [
+    128,
+    256,
+    512
+  ],
+  "train_examples": 240,
+  "evaluation_examples_per_grid": 60,
+  "data_reduction": "deterministic sample/time selection and spatial sub-sampling only; no scientific parameter change",
+  "subset_sha256": "b76dd7c14089222bbaa2f839c8d963ff5454ce0f66d94001acb1c3a2456db159"
+}
