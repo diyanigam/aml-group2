@@ -54,13 +54,9 @@ reproduces the saved models exactly.
 |---|---|
 | [`experiments/`](experiments/) | **The final project**: notebooks, trained models, result tables, figures |
 | [`data/`](data/) | The PDEBench 1D Burgers subset (ν = 0.01): training data at 128 points, test data at 128, 256 and 512 points |
-| [`cnn_baseline/`](cnn_baseline/) | Development of the grid-locked CNN, including the configuration ablation (`ablation.ipynb`) cited in the report |
-| [`FNO/`](FNO/), [`models/FNO_submission/`](models/FNO_submission/), `FNO.ipynb` | Development of the FNO (earlier versions) |
-| `bucked_based_eval.ipynb`, `cnn_full_pipeline.ipynb` | Earlier bucket-based evaluation, where the sharpness measure was introduced |
+| [`archive/`](archive/) | Earlier development work, kept for reference (see below) |
+| [`requirements.txt`](requirements.txt) | Python packages needed to run the notebooks |
 | [`DATA_LICENCE.md`](DATA_LICENCE.md) | Data source and licence |
-
-The folders other than `experiments/` and `data/` document how the models were developed; the final results do
-not depend on them.
 
 ## Setup at a glance
 
