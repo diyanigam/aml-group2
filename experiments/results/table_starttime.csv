@@ -1,0 +1,9 @@
+model,grid,control,beta,CI_low,CI_high
+CNN,256,none,10.6,7.045,36.03
+CNN,256,start-time fixed effects,4.652,3.363,32.28
+CNN,512,none,16.53,10.83,56.92
+CNN,512,start-time fixed effects,7.024,5.068,49.87
+FNO,256,none,0.06518,-0.06121,0.1524
+FNO,256,start-time fixed effects,0.08648,0.03724,0.4601
+FNO,512,none,0.07474,-0.09863,0.1609
+FNO,512,start-time fixed effects,0.1079,0.04727,0.5869

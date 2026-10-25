@@ -1,0 +1,22 @@
+{
+ "best_val": 0.003219430800527334,
+ "epochs": 500,
+ "model": "fno",
+ "n_train": 128,
+ "seed": 2,
+ "config": {
+  "modes": 64,
+  "width": 64,
+  "n_layers": 4
+ },
+ "hyperparameters": {
+  "width": 64,
+  "n_layers": 4,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "batch_size": 16,
+  "epochs": 500,
+  "early_stopping_patience": null
+ },
+ "seconds": 445.4
+}

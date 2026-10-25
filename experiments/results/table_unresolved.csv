@@ -1,0 +1,10 @@
+training_grid,bucket,energy_above_nyquist,truncation_reference
+32,smooth,4.496e-08,0.4132
+32,medium,1.178e-05,9.225
+32,rough,9.708e-05,25.35
+64,smooth,1.443e-08,0.1638
+64,medium,2.006e-07,1.098
+64,rough,9.6e-06,6.299
+128,smooth,6.86e-09,0.1127
+128,medium,7.367e-08,0.4397
+128,rough,1.405e-06,2.472

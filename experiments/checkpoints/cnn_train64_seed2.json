@@ -1,0 +1,24 @@
+{
+ "best_val": 0.00332040642388165,
+ "epochs": 292,
+ "model": "cnn",
+ "n_train": 64,
+ "seed": 2,
+ "config": {
+  "hidden": 64,
+  "kernel_size": 3,
+  "num_layers": 4
+ },
+ "hyperparameters": {
+  "hidden": 64,
+  "kernel_size": 3,
+  "num_layers": 4,
+  "lr": 0.001,
+  "batch_size": 32,
+  "max_epochs": 600,
+  "lr_patience": 20,
+  "lr_factor": 0.5,
+  "patience": 40
+ },
+ "seconds": 49.3
+}
