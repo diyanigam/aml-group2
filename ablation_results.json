@@ -1,0 +1,58 @@
+[
+  {
+    "hidden": 64,
+    "kernel_size": 5,
+    "num_layers": 2,
+    "val": 0.0025388833601027727,
+    "params": 21249
+  },
+  {
+    "hidden": 64,
+    "kernel_size": 5,
+    "num_layers": 4,
+    "val": 0.0023397866170853376,
+    "params": 62337
+  },
+  {
+    "hidden": 64,
+    "kernel_size": 5,
+    "num_layers": 6,
+    "val": 0.002277181949466467,
+    "params": 103425
+  },
+  {
+    "hidden": 64,
+    "kernel_size": 5,
+    "num_layers": 8,
+    "val": 0.0025928071700036526,
+    "params": 144513
+  },
+  {
+    "hidden": 64,
+    "kernel_size": 3,
+    "num_layers": 4,
+    "val": 0.002171088242903352,
+    "params": 37505
+  },
+  {
+    "hidden": 64,
+    "kernel_size": 7,
+    "num_layers": 4,
+    "val": 0.002345176413655281,
+    "params": 87169
+  },
+  {
+    "hidden": 32,
+    "kernel_size": 5,
+    "num_layers": 4,
+    "val": 0.0024235518649220467,
+    "params": 15809
+  },
+  {
+    "hidden": 128,
+    "kernel_size": 5,
+    "num_layers": 4,
+    "val": 0.002165541984140873,
+    "params": 247553
+  }
+]
